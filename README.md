@@ -41,6 +41,6 @@ I've learning to code for 3 years. I started programming in Python, but have rea
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/JMachado98"><img src="https://github-readme-stats.vercel.app/api?username=JMachado98&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=0891b2&icon_color=14b8a6&bg_color=ffffff&hide_border=true&show_icons=true" alt="JMachado98's GitHub stats" /></a>
+a href="http://www.github.com/JMachado98"><img src="https://github-readme-stats.vercel.app/api?username=JMachado98&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=0891b2&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="JMachado98's GitHub stats" /></a>
 
-<a href="https://github.com/JMachado98" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMachado98&langs_count=10&title_color=0891b2&text_color=0891b2&icon_color=14b8a6&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/JMachado98" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMachado98&langs_count=10&title_color=0891b2&text_color=0891b2&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
