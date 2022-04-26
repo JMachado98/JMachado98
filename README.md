@@ -37,10 +37,3 @@ I've learning to code for 3 years. I started programming in Python, but have rea
 
 <p align="left"> <a href="https://www.github.com/JMachado98" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/jrmachdo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/johnnymachado" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/JMachado98"><img src="https://github-readme-stats.vercel.app/api?username=JMachado98&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=0891b2&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="JMachado98's GitHub stats" /></a>
-
-<a href="https://github.com/JMachado98" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMachado98&langs_count=10&title_color=0891b2&text_color=0891b2&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
