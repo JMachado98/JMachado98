@@ -4,11 +4,10 @@ Hi 👋 My name is Johnny Machado
 Software Engineer
 -----------------
 
-I've learning to code for 5 years. I started programming in Python, but have really find a passion for FrontEnd Development.
+I've learning to code for 7 years. I started programming in Python, but have really find a passion for FrontEnd Development.
 
-* 🌍  I'm based in Brazil
+* 🌍  I'm based in Toronto, Canada!
 * ✉️  You can contact me at [johnnymachado490@gmail.com](mailto:johnnymachado490@gmail.com)
-* 🧠  I'm learning Rest Build
 * ⚡  Fun fact, i love cooking
 
 ### Skills
