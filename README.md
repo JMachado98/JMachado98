@@ -6,9 +6,9 @@ Software Engineer
 
 * 🌍  I'm based in Toronto, Canada.
 * ✉️  You can contact me at [johnnymachado490@gmail.com](mailto:johnnymachado490@gmail.com)
-* 🧠  I'm learning UX Design
-* 🤝  I'm open to collaborating on I'm open to collaborating on exciting projects as a software engineer and designer.
-* ⚡  Fun fact, I love cooking and Basketball
+* 🧠  I'm learning Data Analysis
+* 🤝  I'm open to collaborating on exciting projects as a software engineer and Data architeture.
+* ⚡  Fun fact, I love cooking.
 
 
 <p align="left">
